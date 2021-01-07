@@ -1,0 +1,81 @@
+
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "majorName": "数学与应用数学",
+      "cno":"1720853",
+      "period":"2017",
+      "joinDate":"2017-09-01",
+      "num":39,
+      "classTeacher": "老王",
+      "counsellor": "老张"
+    },{
+      "majorName": "大数据",
+      "cno":"1920851",
+      "period":"2019",
+      "joinDate":"2019-09-01",
+      "num":40,
+      "classTeacher": "老王",
+      "counsellor": "老张"
+    },{
+      "majorName": "数学与应用数学",
+      "cno":"1720853",
+      "period":"2017",
+      "joinDate":"2017-09-01",
+      "num":39,
+      "classTeacher": "老王",
+      "counsellor": "老张"
+    },{
+      "majorName": "大数据",
+      "cno":"1920851",
+      "period":"2019",
+      "joinDate":"2019-09-01",
+      "num":40,
+      "classTeacher": "老王",
+      "counsellor": "老张"
+    },{
+      "majorName": "数学与应用数学",
+      "cno":"1720853",
+      "period":"2017",
+      "joinDate":"2017-09-01",
+      "num":39,
+      "classTeacher": "老王",
+      "counsellor": "老张"
+    },{
+      "majorName": "大数据",
+      "cno":"1920851",
+      "period":"2019",
+      "joinDate":"2019-09-01",
+      "num":40,
+      "classTeacher": "老王",
+      "counsellor": "老张"
+    },{
+      "majorName": "数学与应用数学",
+      "cno":"1720853",
+      "period":"2017",
+      "joinDate":"2017-09-01",
+      "num":39,
+      "classTeacher": "老王",
+      "counsellor": "老张"
+    },{
+      "majorName": "大数据",
+      "cno":"1920851",
+      "period":"2019",
+      "joinDate":"2019-09-01",
+      "num":40,
+      "classTeacher": "老王",
+      "counsellor": "老张"
+    },{
+      "majorName": "数学与应用数学",
+      "cno":"1720853",
+      "period":"2017",
+      "joinDate":"2017-09-01",
+      "num":39,
+      "classTeacher": "老王",
+      "counsellor": "老张"
+    }
+  ]
+}

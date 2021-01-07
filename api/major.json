@@ -1,0 +1,39 @@
+
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "id": 1,
+      "majorName": "数学与应用数学",
+      "createTime": "2007-12-07",
+      "remark": "无"
+    }, {
+      "id": 2,
+      "majorName": "大数据",
+      "createTime": "2019-09-07",
+      "remark": "无"
+    }, {
+      "id": 3,
+      "majorName": "数学与应用数学",
+      "createTime": "2007-12-07",
+      "remark": "无"
+    }, {
+      "id": 4,
+      "majorName": "大数据",
+      "createTime": "2019-09-07",
+      "remark": "无"
+    }, {
+      "id": 5,
+      "majorName": "数学与应用数学",
+      "createTime": "2007-12-07",
+      "remark": "无"
+    }, {
+      "id": 6,
+      "majorName": "大数据",
+      "createTime": "2019-09-07",
+      "remark": "无"
+    }
+  ]
+}

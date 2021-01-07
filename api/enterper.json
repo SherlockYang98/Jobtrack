@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "ename": "小杨小杨天天放羊 有限公司01",
+      "ecity": "北京",
+      "ejob": "计算机金融",
+      "epeople": "杨一",
+      "etelephone": 15012262312,
+      "ework": "合作中",
+      "egangwei": "Java开发"
+    },
+    {
+      "ename": "小杨小杨天天放羊 有限公司02",
+      "ecity": "北京",
+      "ejob": "通信行业",
+      "epeople": "杨二",
+      "etelephone": 15959512312,
+      "ework": "合作中",
+      "egangwei": "Java开发"
+    },
+    {
+      "ename": "小杨小杨天天放羊 有限公司03",
+      "ecity": "大连",
+      "ejob": "通信行业",
+      "epeople": "杨三",
+      "etelephone": 15012312316,
+      "ework": "合作中",
+      "egangwei": "Java开发"
+    },
+    {
+      "ename": "小杨小杨天天放羊 有限公司04",
+      "ecity": "成都",
+      "ejob": "金融行业",
+      "epeople": "杨四",
+      "etelephone": 15262212312,
+      "ework": "合作中",
+      "egangwei": "Java开发"
+    },
+    {
+      "ename": "小杨小杨天天放羊 有限公司05",
+      "ecity": "山东",
+      "ejob": "物联网",
+      "epeople": "杨五",
+      "etelephone": 15262612312,
+      "ework": "合作中",
+      "egangwei": "Java开发"
+    },
+    {
+      "ename": "小杨小杨天天放羊 有限公司06",
+      "ecity": "山东",
+      "ejob": "物联网",
+      "epeople": "杨六",
+      "etelephone": 1501216662,
+      "ework": "合作中",
+      "egangwei": "Java开发"
+    }
+
+
+
+  ]
+}
